@@ -20,7 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swadhin2001" alt="swadhin2001" /></a> </p>
 
+- 👨🏻‍🎓 Currently Persuing B.Tech in Information Technology 
 - 🌱 I’m currently learning **MERN Stack**
+- 👀 I’m interested in Hackathons and Open Source Projects
 
 - 📫 How to reach me **https://www.linkedin.com/in/swadhin-paul-933663224/**
 
