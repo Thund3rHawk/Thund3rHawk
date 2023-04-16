@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Swadhin Paul</h1>
-<h3 align="center">Frontend Web Developer || C/C++ Programmer || Open Source Enthusiastic</h3>
+<h3 align="center">Frontend Web Developer || C/C++ Programmer || Open Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadhin2001&label=Profile%20views&color=0e75b6&style=flat" alt="swadhin2001" /> </p>
 
