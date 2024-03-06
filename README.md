@@ -34,8 +34,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/swadhin2001/count.svg?"  />
-</div>
+
 
 ###
