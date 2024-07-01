@@ -3,9 +3,17 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thund3rHawk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Thund3rHawk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thund3rHawk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <table>
+      <tr>        
+        <td align = 'center'>      
+          <img src="https://github-readme-stats.vercel.app/api?username=Thund3rHawk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+        </td>
+        <td align = 'center'>      
+          <img src="https://streak-stats.demolab.com?user=Thund3rHawk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />      
+        </td>
+      </tr>
+  </table>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thund3rHawk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />       
 </div>
 
 ###
@@ -30,7 +38,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Thund3rHawk/Thund3rHawk/output/snake.svg" alt="Snake animation" />
+<table>
+  <tr>
+    <td align = 'center'>
+      <img src="https://raw.githubusercontent.com/Thund3rHawk/Thund3rHawk/output/snake.svg" alt="Snake animation" />      
+    </td>
+  </tr>
+</table>
 
 ###
 
