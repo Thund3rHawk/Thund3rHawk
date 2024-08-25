@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Swadhin Paul</h1>
-<h3 align="center">Full-Stack Developer and Designer with expertise in both frontend and backend technologies, creating seamless and visually appealing web applications.</h3>
+![github-header-image (2)](https://github.com/user-attachments/assets/a05577cd-53e3-4eba-8309-75979c77d153)
+
+
+<br clear="both"/>
 
 
 <div align="center">
@@ -36,7 +38,7 @@
 
 ###
 
-<br clear="both">
+<br clear="both"/>
 
 <table>
   <tr>
