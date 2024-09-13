@@ -16,7 +16,7 @@
       </tr>
     <tr>
       <td align = 'center'>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thund3rhawk&layout=compact&theme=radical" height="180" alt="languages graph"  />               
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Thund3rHawk&layout=compact&theme=radical" width="380" alt="languages graph"  />               
       </td>
       <td align = 'center'>
           <img src="https://stats.quira.sh/Swadhin1508/github?theme=dark" height="250" alt="languages graph"  />               
