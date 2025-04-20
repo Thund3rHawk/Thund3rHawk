@@ -19,7 +19,7 @@
           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Thund3rHawk&layout=compact&theme=radical" width="380" alt="languages graph"  />               
       </td>
       <td align = 'center'>
-          <img src="https://stats.quira.sh/Swadhin1508/github?theme=dark" height="250" alt="languages graph"  />               
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thund3rhawk&theme=radical&utcOffset=8" height="250" alt="languages graph"  />               
       </td>
     </tr>
   </table>      
